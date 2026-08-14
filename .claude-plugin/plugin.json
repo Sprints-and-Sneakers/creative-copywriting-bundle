@@ -1,0 +1,18 @@
+{
+  "name": "creative-copywriting",
+  "version": "1.0.0",
+  "description": "Ad copywriting pipeline for Claude by Sprints & Sneakers: brand intake, channel strategy, ad copy across every format, and two independent quality gates. Writes plain markdown to a local folder. No API keys required.",
+  "keywords": [
+    "advertising",
+    "copywriting",
+    "creative-strategy",
+    "marketing",
+    "ugc",
+    "meta-ads"
+  ],
+  "author": {
+    "name": "Sprints & Sneakers",
+    "url": "https://sprintsandsneakers.com"
+  },
+  "homepage": "https://sprintsandsneakers.com"
+}

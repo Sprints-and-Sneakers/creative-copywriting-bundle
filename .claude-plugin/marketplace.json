@@ -1,0 +1,14 @@
+{
+  "name": "creative-copywriting-bundle",
+  "owner": {
+    "name": "Sprints & Sneakers",
+    "url": "https://sprintsandsneakers.com"
+  },
+  "plugins": [
+    {
+      "name": "creative-copywriting",
+      "source": "./",
+      "description": "Six production-grade skills by Sprints & Sneakers that turn research into scored ad copy. Runs entirely on local files."
+    }
+  ]
+}
