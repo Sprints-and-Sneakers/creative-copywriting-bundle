@@ -123,3 +123,5 @@ After editing any skill, run `./build-zips.sh` to rebuild `dist/`.
 Built by **[Sprints & Sneakers](https://sprintsandsneakers.com)**, a performance creative and growth unit. These are the skills we use on client work, packaged so you can run them yourself.
 
 Everything here is © Sprints & Sneakers: the pipeline, the quality criteria, the review loops, the anti-slop taxonomy, and the scoring and severity models.
+
+Released under the [MIT License](LICENSE).
